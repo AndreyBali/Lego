@@ -1,0 +1,6 @@
+name: Lego
+version: '${project.version}'
+main: com.andreybali.lego.Lego
+api-version: 1.18
+authors: [ AndreyBali ]
+description: allows to build lego
